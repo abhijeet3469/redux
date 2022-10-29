@@ -1,0 +1,39 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Samsung M32",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 10000
+    },
+    {
+        "id": 2,
+        "name": "Vivo",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 7999
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 18999
+    },
+    {
+        "id": 4,
+        "name": "Samsung N++",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 13999
+    },
+    {
+        "id": 5,
+        "name": "Samsung Z12",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 11999
+    },
+    {
+        "id": 6,
+        "name": "Samsung M32",
+        "src": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325fzkcins/gallery/in-galaxy-m32-6gb-ram-sm-m325fzkcins-462256897?$1300_1038_PNG$",
+        "price" : 10000
+    }
+]
+}
